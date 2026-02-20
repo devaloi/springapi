@@ -1,5 +1,7 @@
 # springapi
 
+[![CI](https://github.com/devaloi/springapi/actions/workflows/ci.yml/badge.svg)](https://github.com/devaloi/springapi/actions/workflows/ci.yml)
+
 Production-grade Spring Boot REST API for task management with JPA, Spring Security, and OpenAPI documentation.
 
 ## Tech Stack
